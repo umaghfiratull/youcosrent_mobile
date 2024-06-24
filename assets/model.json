@@ -1,0 +1,210 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nama_barang": "Laptop",
+            "deskripsi": "Laptop dengan spesifikasi tinggi untuk gaming.",
+            "id_jenis": 1,
+            "jenisbarang": "Elektronik",
+            "created_at": "2024-01-01T04:00:00.000000Z",
+            "updated_at": "2024-01-01T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 1,
+                    "ukuran": "15 inch",
+                    "warna": "Hitam",
+                    "harga": 15000000,
+                    "stok": 10,
+                    "id_barang": 1,
+                    "created_at": "2024-01-01T05:00:00.000000Z",
+                    "updated_at": "2024-01-01T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 2,
+            "nama_barang": "Baju Kemeja",
+            "deskripsi": "Kemeja formal untuk acara resmi.",
+            "id_jenis": 2,
+            "jenisbarang": "Pakaian",
+            "created_at": "2024-01-02T04:00:00.000000Z",
+            "updated_at": "2024-01-02T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 2,
+                    "ukuran": "M",
+                    "warna": "Putih",
+                    "harga": 150000,
+                    "stok": 20,
+                    "id_barang": 2,
+                    "created_at": "2024-01-02T05:00:00.000000Z",
+                    "updated_at": "2024-01-02T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 3,
+            "nama_barang": "Blender",
+            "deskripsi": "Blender dengan 5 pilihan kecepatan.",
+            "id_jenis": 3,
+            "jenisbarang": "Peralatan Rumah Tangga",
+            "created_at": "2024-01-03T04:00:00.000000Z",
+            "updated_at": "2024-01-03T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 3,
+                    "ukuran": "1.5 Liter",
+                    "warna": "Silver",
+                    "harga": 500000,
+                    "stok": 30,
+                    "id_barang": 3,
+                    "created_at": "2024-01-03T05:00:00.000000Z",
+                    "updated_at": "2024-01-03T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 4,
+            "nama_barang": "Susu UHT",
+            "deskripsi": "Susu UHT dengan rasa cokelat.",
+            "id_jenis": 4,
+            "jenisbarang": "Makanan dan Minuman",
+            "created_at": "2024-01-04T04:00:00.000000Z",
+            "updated_at": "2024-01-04T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 4,
+                    "ukuran": "1 Liter",
+                    "warna": "Cokelat",
+                    "harga": 15000,
+                    "stok": 40,
+                    "id_barang": 4,
+                    "created_at": "2024-01-04T05:00:00.000000Z",
+                    "updated_at": "2024-01-04T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 5,
+            "nama_barang": "Buku Tulis",
+            "deskripsi": "Buku tulis 100 lembar.",
+            "id_jenis": 5,
+            "jenisbarang": "Alat Tulis",
+            "created_at": "2024-01-05T04:00:00.000000Z",
+            "updated_at": "2024-01-05T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 5,
+                    "ukuran": "A4",
+                    "warna": "Biru",
+                    "harga": 5000,
+                    "stok": 50,
+                    "id_barang": 5,
+                    "created_at": "2024-01-05T05:00:00.000000Z",
+                    "updated_at": "2024-01-05T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 6,
+            "nama_barang": "Baju Cosplay Naruto",
+            "deskripsi": "Baju cosplay karakter Naruto.",
+            "id_jenis": 6,
+            "jenisbarang": "Pakaian Cosplay",
+            "created_at": "2024-01-06T04:00:00.000000Z",
+            "updated_at": "2024-01-06T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 6,
+                    "ukuran": "L",
+                    "warna": "Oranye",
+                    "harga": 200000,
+                    "stok": 5,
+                    "id_barang": 6,
+                    "created_at": "2024-01-06T05:00:00.000000Z",
+                    "updated_at": "2024-01-06T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 7,
+            "nama_barang": "Baju Cosplay Sailor Moon",
+            "deskripsi": "Baju cosplay karakter Sailor Moon.",
+            "id_jenis": 6,
+            "jenisbarang": "Pakaian Cosplay",
+            "created_at": "2024-01-07T04:00:00.000000Z",
+            "updated_at": "2024-01-07T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 7,
+                    "ukuran": "S",
+                    "warna": "Biru dan Putih",
+                    "harga": 250000,
+                    "stok": 5,
+                    "id_barang": 7,
+                    "created_at": "2024-01-07T05:00:00.000000Z",
+                    "updated_at": "2024-01-07T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 8,
+            "nama_barang": "Baju Cosplay Batman",
+            "deskripsi": "Baju cosplay karakter Batman.",
+            "id_jenis": 6,
+            "jenisbarang": "Pakaian Cosplay",
+            "created_at": "2024-01-08T04:00:00.000000Z",
+            "updated_at": "2024-01-08T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 8,
+                    "ukuran": "M",
+                    "warna": "Hitam",
+                    "harga": 300000,
+                    "stok": 5,
+                    "id_barang": 8,
+                    "created_at": "2024-01-08T05:00:00.000000Z",
+                    "updated_at": "2024-01-08T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        },
+        {
+            "id": 9,
+            "nama_barang": "Baju Cosplay Spiderman",
+            "deskripsi": "Baju cosplay karakter Spiderman.",
+            "id_jenis": 6,
+            "jenisbarang": "Pakaian Cosplay",
+            "created_at": "2024-01-09T04:00:00.000000Z",
+            "updated_at": "2024-01-09T04:00:00.000000Z",
+            "detailbarang": [
+                {
+                    "id": 9,
+                    "ukuran": "L",
+                    "warna": "Merah dan Biru",
+                    "harga": 250000,
+                    "stok": 5,
+                    "id_barang": 9,
+                    "created_at": "2024-01-09T05:00:00.000000Z",
+                    "updated_at": "2024-01-09T05:00:00.000000Z"
+                }
+            ],
+            "detailfoto": []
+        }
+    ],
+    "code": 200,
+    "status": true
+}
+
+
+
+
+
+
